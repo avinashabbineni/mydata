@@ -3,7 +3,7 @@ package com.edj.test;
 public class Test {
 
 	public static void main(String[] args) {
-		System.out.println("testing data verify");
+		System.out.println(" user 1 ");
 	}
 
 }
